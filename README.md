@@ -1,6 +1,2 @@
-# Simple Embedded-Teaching Templates
-M.Sc. Minh-Hoang Ngo, Hochschule Karlsruhe, DE.<br /><br />
-Here I upload some simple templates for the Programming Language, Microcontroller and Control-Theory courses that I taught since 2018.<br />
-These templates are used to build the complete projects according to the Lab-Handbooks and Theoretical-Books.<br />
-Hope you could find them interesting. Have a nice day!<br />
-## Branches<br />
+# Computer Vision
+The main part could be found here: https://github.com/tomng111/simple_compvision_templates.
